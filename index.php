@@ -7,6 +7,6 @@
     <title>Resume</title>
 </head>
 <body>
-    <h1><?php echo "Manish Kumar Gupta"; ?></h1>
+    <h1>Manish Kumar Gupta</h1>
 </body>
 </html>
